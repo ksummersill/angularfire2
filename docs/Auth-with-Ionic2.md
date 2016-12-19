@@ -121,6 +121,10 @@ Install angularfire2 and firebase by executing the following command in your pro
 
 C:\projects\Ionic_AngularFire2_Project>npm install angularfire2 firebase --save
 
+C:\projects\Ionic_AngularFire2_Project>npm install firebase angularfire2 --save
+https://www.npmjs.com/package/angularfire2
+
+
 ```
 
 _This should add angularfire2 and firebase entry in your project's package.json file in dependencies section. Something similar_
